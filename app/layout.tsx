@@ -32,32 +32,27 @@ export const metadata: Metadata = {
 		'Frontend Development',
 		'Backend Development',
 		'Bhanu Rakshita Paul',
-		'Bhanu Paul'
+		'Bhanu Paul',
+		'Cybersecurity',
+		
 	],
 	authors: [{ name: 'Bhanu Paul' }],
 	creator: 'Bhanu Paul',
 	openGraph: {
 		title: 'Bhanu Paul - Developer Portfolio',
 		description: 'Aspiring cybersecurity professional and software developer focused on cloud, full-stack development, and protecting digital environments.',
-		url: 'https://your-domain.com',
-		siteName: '[Your Name] - Portfolio',
+		url: 'https://bhanurakshita.netlify.app/',
+		siteName: 'Bhanu Paul - Portfolio',
 		images: [
 			{
-				url: '/og-image.jpg',
+				url: '/bhanu.jpeg',
 				width: 1200,
 				height: 630,
-				alt: '[Your Name] - Developer Portfolio',
+				alt: 'bhanu paul - Developer Portfolio',
 			},
 		],
 		locale: 'en_US',
 		type: 'website',
-	},
-	twitter: {
-		card: 'summary_large_image',
-		title: '[Your Name] - Developer',
-		description: 'Passionate developer creating simple and effective solutions. Explore my projects and development approach.',
-		creator: '@yourusername',
-		images: ['/og-image.jpg'],
 	},
 	robots: {
 		index: true,
