@@ -45,7 +45,7 @@ export default function SkillsSection() {
 
 
   return (
-    <section className="bg-gray-800 py-12 sm:py-20">
+    <section className="bg-gray-800 py-12 sm:py-20" id="skills">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 className="text-xl sm:text-2xl font-bold text-white mb-6 sm:mb-8 text-center">
           Cybersecurity & IT Systems
