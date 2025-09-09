@@ -45,9 +45,9 @@ export default function ParticlesBackground() {
         color: { value: "#ffffff" },
       },
       emitters: {
-        position: { x: -5, y: 55 },
+        position: { x: 0, y: 50 },
         rate: { delay: 4, quantity: 1 },
-        size: { width: 0, height: 0 },
+        size: { width: 0, height: 100 },
         particles: {
           shape: {
             type: "images",
